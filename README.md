@@ -1,6 +1,6 @@
 # Noname ReplayLab (Replay Tool Extension)
 
-#### [中文文档](README.md)
+#### [中文文档][(README.md)](https://github.com/Faide-cyber/ReplayLab/blob/main/README_zh.md)
 
 ### 1. Project Overview
 
