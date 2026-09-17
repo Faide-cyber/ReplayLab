@@ -88,7 +88,6 @@ The interpretation right of this statement belongs to the author.
 
 ### 8. Additional Information
 
-- **Extension Documentation**: `com.helasisy.liulikill/extension/复盘工具/使用说明.md` (features and FAQ), `复盘工具-更新日志.md` (changelog and per-version rationale).
 - **Latest Source Code and Docs**
   Please visit the GitHub repository for the latest source code and documentation updates: https://github.com/Faide-cyber/
 - **Noname Engine / Extension Development**
@@ -102,4 +101,4 @@ If you have any questions or feedback, you can also reach out via a GitHub issue
 
 When submitting an issue, please describe your problem clearly and provide sufficient context (for example, the diagnostic line printed by `hfTool.diag()` in the console), so that I can better understand and answer your question.
 
-![QQ图片202310251908231](../../typora/img/8b7ac122-d438-4d64-b6d0-330b514e4389.png)
+![QQ Contact Image](https://github.com/Faide-cyber/MouseCopy/assets/148406475/8b7ac122-d438-4d64-b6d0-330b514e4389)
