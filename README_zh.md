@@ -1,6 +1,7 @@
 # 无名杀复盘工具拓展（ReplayLab）
 
 #### [English Doc](https://github.com/Faide-cyber/ReplayLab/blob/main/README.md)
+![Static Badge](https://img.shields.io/badge/%40Github-Faide-%2300FFFF)  ![Static Badge](https://img.shields.io/badge/Version-1.0.0-%23e87435) ![Static Badge](https://img.shields.io/badge/License-GNU3.0-%2314bbc1)
 
 ### 1. 项目概述
 
