@@ -86,7 +86,6 @@
 
 ### 8. 附加信息
 
-- **扩展文档**：`com.helasisy.liulikill/extension/复盘工具/使用说明.md`（功能与常见问题）、`复盘工具-更新日志.md`（逐版改动与原因）。
 - **最新源码与文档**
   请访问 GitHub 仓库获取最新源码与文档更新：https://github.com/Faide-cyber/
 - **无名杀本体 / 扩展开发**
@@ -100,4 +99,4 @@
 
 在提交 issue 时，请确保描述清楚您的问题或反馈，并提供足够的上下文信息（例如控制台执行 `hfTool.diag()` 打印出的那一行诊断数据），以便我能够更好地理解和回答您的问题。
 
-![QQ图片202310251908231](../../typora/img/8b7ac122-d438-4d64-b6d0-330b514e4389.png)
+![QQ Contact Image](https://github.com/Faide-cyber/MouseCopy/assets/148406475/8b7ac122-d438-4d64-b6d0-330b514e4389)
